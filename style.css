@@ -1,0 +1,25 @@
+h1 {
+  color: #b997a2;
+  font-size: 36px;
+  font-family: 'Tahoma', Arial, Helvetica, sans-serif, sans-serif, serif;
+}
+
+/* tag < class < id */
+
+#secondHeader {
+  color: blue;
+}
+
+.header {
+  color: orange;
+}
+
+h1 {
+  color: green;
+}
+
+p {
+  color: red;
+}
+
+
